@@ -5,6 +5,10 @@ Soy Andrés Saltos cuento con 20 años de edad, estudiante universitario con gan
   
 <h3> Herramientas: </h3>
 <p align = "center">
+<ul>
+  <li>Java, Python, C (conocimiento básico)</li>
+  <li>HTML, CSS, JavaScript</li>
+</ul>
   
 </p>  
 <h2>Stats generales de github </h2>  
