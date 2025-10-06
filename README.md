@@ -19,11 +19,12 @@ Soy Andrés Saltos cuento con 20 años de edad, estudiante universitario con gan
 </p>
 
 <h3>Repositorios: </h3>
-<p align="center">
-  <a href="https://github.com/jeydnava/Proyecto_ED_P1_Grupo07">Aeropuerto</a>
-  <a href="https://github.com/isaltosf/POO-P3-G03">Consultorio médico
-  </a>
-  <a href="https://github.com/LockHurb/Bones-Bytes">Xray-Assist
-  </a>
+<p>
+  <ul>
+    <li><a href="https://github.com/jeydnava/Proyecto_ED_P1_Grupo07">Aeropuerto</a></li>
+    <li><a href="https://github.com/isaltosf/POO-P3-G03">Consultorio médico </a></li>
+    <li><a href="https://github.com/LockHurb/Bones-Bytes">Xray-Assist</a></li>
+  </ul>
+  
 </p>
 
