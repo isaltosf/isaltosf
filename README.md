@@ -1,14 +1,13 @@
 # 👋 ¡Hola! Soy Andrés
-[![LinkedIn](www.linkedin.com/in/andrés-saltos-1695a2330)]
-[![GitHub](https://github.com/isaltosf)]
-[![Twitter](https://x.com/AndrsSaltos4)]
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=555&logoColor=white)](https://www.linkedin.com/in/andrés-saltos-1695a2330)
+[![GitHub](https://img.shields.io/badge/-GitHub-black.svg?style=flat-square&logo=github&color=555&logoColor=white)](https://github.com/isaltosf)
+[![Twitter](https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=x&color=555&logoColor=white)](https://x.com/AndrsSaltos4)
+
 
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
-## Contenido 📄
-  * [Información personal](#información-personal)  
-  * [Proyectos](#proyectos)
-  * [Intereses](#intereses)
+
 ## Información personal 👤
   * Nombre: Andrés Alexander Saltos Preciado 
   * Ocupación: Estudiante de Computacion
