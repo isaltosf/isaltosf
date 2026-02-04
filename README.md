@@ -12,7 +12,6 @@ proyectos y mis intereses.
   * Nombre: Andrés Alexander Saltos Preciado 
   * Ocupación: Estudiante de Computacion
   * Lugar de residencia: Daule, Ecuador
-  * Sitio web: [Tu sitio web]
 ## Proyectos 💻
 Aquí puedes ver algunos de los proyectos en los que estoy trabajando actualmente:
 
